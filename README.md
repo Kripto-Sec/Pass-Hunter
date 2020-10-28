@@ -9,7 +9,7 @@
 
 2. Você ira precisar do tor 
 
-`pip3 intall tor`
+`pip3 install tor`
 
 3. Instale os requisitos finais
 
