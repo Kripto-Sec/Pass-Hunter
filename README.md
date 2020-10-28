@@ -1,6 +1,13 @@
 # Pass-Hunter
 é uma ferramenta feito em python para pesquisar senhas vazadas usando o serviço Onion PWDB2.
 
+``` 
+Feito pra fins educacionais
+não use para propositos maliciosos
+
+conhecimento não é crime  ;)
+```
+
 ## Instalação
 1. Primeiro clone o script(meio obvio)
 
