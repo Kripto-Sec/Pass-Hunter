@@ -1,7 +1,10 @@
 import requests
 import json
 
-
+''' Feito por Kripto-Sec 
+    Use apenas pra fins educacionais
+    conhecimento não é crime
+'''
 
 torport = 9050
 proxies = {
