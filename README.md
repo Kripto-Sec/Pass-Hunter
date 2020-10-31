@@ -16,7 +16,13 @@ conhecimento não é crime  ;)
 
 2. Você ira precisar do tor 
 
-`pip3 install tor`
+
+```
+sudo apt install tor
+
+pip3 install tor
+
+```
 
 3. Instale os requisitos finais
 
@@ -24,7 +30,11 @@ conhecimento não é crime  ;)
 
 ## Como usar
 
-Execute com python 3
+Inicie o tor:
+
+` sudo service tor start`
+
+Execute com python 3:
 
 
 ` python3 Pass-Hunter.py`
