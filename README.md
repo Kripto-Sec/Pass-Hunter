@@ -26,7 +26,7 @@ pip3 install tor
 
 3. Instale os requisitos finais
 
-`bash intall.sh`
+`bash install.sh`
 
 ## Como usar
 
